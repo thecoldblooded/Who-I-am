@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%"  />
+</div>
+
 # 💫 About Me:
 <p style="text-align: justify;">As a geologist with a passion for technology, I have a unique combination of skills and expertise. I have a background in geology, specifically the study of rock formations and the processes that shape the earth's surface. I am experienced in using Bootstrap, a front-end framework for web development, and have a strong understanding of C# and ASP.NET for building web applications. I am skilled in using AJAX for creating dynamic and responsive user interfaces, and have experience working with HTML, CSS, and JavaScript.<br><br>In addition to my expertise in geology and web development, I have a keen interest in cryptocurrency and blockchain technology. I have experience in crypto asset management and am well-versed in the use of blockchain for securely tracking and transferring digital assets. I am also familiar with cryptocurrency mining and have experience working with crypto exchange platforms.<br><br>In my free time, I enjoy creative writing and have a talent for ad copy and creative content development. I am proficient in using JSON, a common data interchange format, and have experience working with Java, a popular programming language.<br><br>Overall, I am a highly skilled and versatile individual with a unique combination of geological and technical expertise. I am constantly seeking new opportunities to apply my knowledge and experience in innovative way.</p>
 
@@ -19,6 +23,8 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11100401975&cover_image=true&theme=default&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/umutdog91A) 
