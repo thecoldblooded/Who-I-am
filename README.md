@@ -1,9 +1,18 @@
-<img src="https://giphy.com/embed/l3vRnKI0Amq6BHSik" align="right" width="300" height="250"/>
-<iframe src="https://giphy.com/embed/l3vRnKI0Amq6BHSik" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
 ## Reach out to me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruesandora&label=Profile%20views&color=0e75b6&style=flat" alt="ruesandora" /> <a href="https://twitter.com/ruesandora0" target="blank"><img src="https://img.shields.io/twitter/follow/ruesandora0?logo=twitter&style=for-the-badge" alt="ruesandora0" /></a>  <a href="https://t.me/Ruesandora"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram" width="50" height="40"/></a>
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+	<img src="https://komarev.com/ghpvc/?username=thecoldblooded&style=for-the-badge">
+</a>
+<a href="https://twitter.com/laf_lafi_acar" target="blank">
+	<img src="https://img.shields.io/twitter/follow/ruesandora0?logo=twitter&style=for-the-badge" alt="ruesandora0"/>
+</a>
+<a href="https://t.me/nodehunter007">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" alt="Telegram" width="50" height="40"/>
+</a>
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+	![](giphy.gif)
+</div>
 
 
 As a geologist with a passion for technology, I have a unique combination of skills and expertise. I have a background in geology, specifically the study of rock formations and the processes that shape the earth's surface. I am experienced in using Bootstrap, a front-end framework for web development, and have a strong understanding of C# and ASP.NET for building web applications. I am skilled in using AJAX for creating dynamic and responsive user interfaces, and have experience working with HTML, CSS, and JavaScript.
